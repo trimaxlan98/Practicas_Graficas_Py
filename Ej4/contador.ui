@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Count Up</string>
+     <string>Incrementar</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btn_menos">
@@ -37,7 +37,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Count Down </string>
+     <string>Decrementar</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btn_reset">
